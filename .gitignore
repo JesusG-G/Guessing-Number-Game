@@ -1,7 +1,8 @@
-# .gitignore
-__pycache__
-venv
+# Environments
+.env
+.venv
+env/
 venv/
-env
-.pytest_cache
-.coverage
+ENV/
+env.bak/
+venv.bak/
